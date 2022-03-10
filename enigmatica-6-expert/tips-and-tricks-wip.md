@@ -18,6 +18,16 @@ coverY: 0
 
 * Your first Storage System can be Pretty Pipes' Crafting Terminal. It reads the inventories of all the connected pipes and allows you to craft with them. Transfer speed will be slow so you can use a Pipe Pressurizer when you get power to make those items zoom through the pipes.
 
+### Finding Nautilus Shells
+
+Nautilus Shells are used for a lot of crafts and finding them has never been easier:
+
+1. Kill or use Drygmies to harvest from Nautilus (great choice) or Drowned (not so great choice) mobs
+2. Dig up Embedded Ammonite under beaches and oceans
+3. Gather shells from beaches and oceans (right click picks up the shell, left click breaks for a random drop, either nautilus, prismarine shards, or prismarine crystals)
+4. Trade with Seals by tossing them fish. They'll dive to the ocean floor and 'retrieve' a gift for you. This loot table has been heavily modified and gives shells frequently
+5. Fishing. This option is slow, but it can be a good way to get early gear (Neptune's Armor and Weapons) early game.
+
 ## Mid Game
 
 * Craft a Morphing Tool! It comes with all the tools included.
