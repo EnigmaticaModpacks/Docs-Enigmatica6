@@ -94,3 +94,34 @@ Here we replace the entire Pretty Pipes portion of the previous automation with 
 This should need little explanation at this point. The Upgrades themselves are installed on the Conveyor Belts by right clicking with the upgrade item. The extraction and insertion pull from the Orb and insert into the Interface, respectively. And the Detection Upgrade causes the belt it's installed in to emit Redstone when items pass over it. This triggers the pulse needed to send the next set from RS.
 
 The downside to a setup like this is that the conveyor can only extract 4 items at a time, meaning for something like Nitro Crystals which give 16, it'll trigger the Redstone pulse 4 times. While this isn't ideal, it still manages to craft most other recipes without issue. Finding a way to extend the pulse, or indeed finding other methods with the mods at hand, is an exercise left to the reader.
+
+### Compact automation with Refined Storage and Modular Routers
+
+If you're not a huge fan of pretty pipes/comparators, or you want a slightly^Wmuch more compact setup, Modular Routers has you covered.
+
+The Setup:
+![2022-05-05\_09 34 00](https://i.imgur.com/W7mcX7n.png)
+
+Here we replace all of the previous automations with a single modular router.
+
+**What we need:**
+
+* Refined Storage Crafter/Interface
+* Energizing Orb + Rod + Power
+* Modular Router, along with Puller Mk2, Sender Mk2, and Detector modules
+ 
+Configure the crafter as before with "Redstone inserts next set" facing into the Energizing Orb
+
+Configure the Puller Mk2 module to pull from the Energizing orb.
+
+Configure the Sender Mk2 to push into the Refined Storage Interface
+
+Place the Router in contact with the Crafter.  I have placed mine on top, as per the screenshot.
+
+Put the Puller, Detector, and Sender modules in the router, in that order.
+
+Configure the Detector module to send a redstone pulse in the direction of the crafter, in my case "Down"
+
+![2022-05-05](https://i.imgur.com/laA3AC4.png)
+
+Now when you request any recipe from the RS to use the orb, the crafter inserts the items, the rods do their thing, and the router pulls the product out and inserts it into the interface.  If you'd like the router to go a little faster, speed upgrades (and maybe stack upgrades) are helpful.
