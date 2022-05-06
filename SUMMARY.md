@@ -17,6 +17,7 @@
   * [Cobble Gen Randomizer: Cobbleworks](gameplay/how-to.../cobble-gen-randomizer-cobbleworks.md)
   * [Farmer's Delight: Automating Straw](gameplay/how-to.../farmers-delight-automating-straw.md)
   * [Flux Networks: Automating Flux Dust](gameplay/how-to.../flux-networks-automating-flux-dust.md)
+  * [Mekanism: Simple Fission Safety](gameplay/how-to.../mekanism-simple-fission-safety.md)
   * [Nature's Aura: Aura Generation](gameplay/how-to.../natures-aura-aura-generation.md)
   * [Occultism: Automating Rituals](gameplay/how-to.../occultism-automating-rituals.md)
   * [PneumaticCraft: Safe Compressor Usage](gameplay/how-to.../pneumaticcraft-safe-compressor-usage.md)
