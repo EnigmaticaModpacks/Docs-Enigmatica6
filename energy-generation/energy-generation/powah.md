@@ -17,6 +17,10 @@ Most recipes are now direct crafts, rather than tiered crafts, greatly reducing 
 
 An upgrade path still exists, allowing the player to take an old generator and insert new components into it, bringing it up to a higher tier. Any tier can be changed to any other tier.
 
+{% hint style="info" %}
+The following values represent Normal mode only. Expert mode increases many of these even further.
+{% endhint %}
+
 ## Thermo Generators
 
 Heat Sources have seen an overall reduction in efficiency while a new coolant has been introduced that's better than water.
