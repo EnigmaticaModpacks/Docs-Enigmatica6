@@ -20,6 +20,7 @@
   * [Mekanism: Simple Fission Safety](gameplay/how-to.../mekanism-simple-fission-safety.md)
   * [Nature's Aura: Aura Generation](gameplay/how-to.../natures-aura-aura-generation.md)
   * [Occultism: Automating Rituals](gameplay/how-to.../occultism-automating-rituals.md)
+  * [Occultism: Automatic Djinn Repair](gameplay/how-to.../occultism-automatic-djinn-repair.md)
   * [PneumaticCraft: Safe Compressor Usage](gameplay/how-to.../pneumaticcraft-safe-compressor-usage.md)
   * [PneumaticCraft: Heating and Cooling](gameplay/how-to.../pneumaticcraft-heating-and-cooling.md)
   * [Powah: Automating the Energizing Orb](gameplay/how-to.../powah-automating-the-energizing-orb.md)
