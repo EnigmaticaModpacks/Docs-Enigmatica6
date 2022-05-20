@@ -33,7 +33,7 @@ Link the XP Anvil pedestal to the XP tank pedestal, link the XP tank to the Flui
 
 ![Get the Djinns Out](https://i.imgur.com/EZ64935.png)
 
-This is the first module in the router.  Note that it pulls from the TOP of the mineshaft. This is **important**, because the TOP is the only place you can insert or remove the lamp from. All other sides are for moving ores.  This module brings the lamp into the router.
+This is the first module in the router.  Note that it pulls from the TOP of the mineshaft. This is **important**, because the TOP is the only place you can insert or remove the lamp from. All other sides are for moving ores.  This module brings the lamp into the router.  The inspection filter is set to "Durability < 10%" so if there's 10% or less durability left, it will pull the lamp out for repair.  You can set this value to anything you want.
 
 ![Repair the Djinn](https://i.imgur.com/vx4ASqK.png)
 
