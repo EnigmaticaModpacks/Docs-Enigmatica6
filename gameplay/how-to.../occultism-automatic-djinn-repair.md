@@ -12,7 +12,7 @@ Not with the power of several mods in Enigmatica 6, that is!  Using a combinatio
 # What you will need:
 
 - A working knowledge of how Pedestals works.
-- An "XP to Fluid" converter pedestal
+- An "Fluid to XP" converter pedestal
 - An "XP Tank" pedestal
 - An "XP Anvil" pedestal
 - An inventory under the XP Anvil, can just be a chest.
