@@ -49,7 +49,7 @@ And turn it on...
 
 My reactor would have exploded! But the safety breaker turned the reactor off. This setup should be able to handle very large heating rates.
 
-## A slightly more advanced safety
+## Slightly more advanced safety
 
 ![Oops!](https://i.imgur.com/6FY4caS.png)
 
