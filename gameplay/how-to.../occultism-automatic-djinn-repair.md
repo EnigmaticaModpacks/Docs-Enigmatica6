@@ -7,12 +7,12 @@ We all know and love Occultism's miner djinns, don't we?  Too bad they only have
 
 No!
 
-Not with the power of several mods in Enigmatica 6, that is!  Using a combination of Modular Routers and Pedestals, we can automatically repair our miner djinns so they keep bringing us ores from wherever it is they go.
+Not with the power of several mods in Enigmatica 6, that is!  Using a combination of Modular Routers and Pedestals, we can automatically repair our miner djinns so they keep bringing us ores from wherever it is they go.  These instructions will scale up to 8 dimensional mineshafts.  If you want to add more, you can add more distribution modules on either side of the repair, or add more routers.
 
 # What you will need:
 
 - A working knowledge of how Pedestals works.
-- An "XP to Fluid" converter pedestal
+- A "Fluid to XP" converter pedestal
 - An "XP Tank" pedestal
 - An "XP Anvil" pedestal
 - An inventory under the XP Anvil, can just be a chest.

@@ -49,4 +49,26 @@ And turn it on...
 
 My reactor would have exploded! But the safety breaker turned the reactor off. This setup should be able to handle very large heating rates.
 
+## Slightly more advanced safety
+
+![Oops!](https://i.imgur.com/6FY4caS.png)
+
+You just activated your reactor using this button. Your circuit breaker requires you to   activate it using a lever there. Your reactor exploded. Want to prevent this? Check out this circuit breaker that doesn't require that!
+
+![New Layout](https://i.imgur.com/HkcOTFE.png)
+
+Start with your reactor! The left logic adapter is set to activate reactor. The first two right ones are High Temperature, and Excess Waste. The other ones aren't really needed, but they are Critical Damage, and Insufficient Fuel.
+
+![New Layout 2](https://i.imgur.com/kypUO2x.png)
+
+Add blocks two layers back in front of the logic adapters, and the block in between. Like this.
+
+![Final Layout](https://i.imgur.com/wXLjnKp.png)
+
+Add 7 redstone, and a Create pulse repeater like this. Done! 
+
+Always have water generation. Also, DO NOT START THE REACTOR WITHOUT WATER IN IT. This setup will not prevent a meltdown if you don't constantly supply water. A sink with one ultimate mechanical pipe will work fine, and make sure to reprocess from a turbine. 
+
+
+
 - Written by ExplodeyWolf on the E6 discord, submitted to GitBook by atlgeek007/vanamar
