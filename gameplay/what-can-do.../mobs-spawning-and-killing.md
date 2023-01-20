@@ -121,7 +121,7 @@ Below we'll discuss some of the options in the pack for automatically killing mo
 
 #### **Auto Attacker**
 
-For a quick and easy way to kill mobs, the Pedestals mod offers the Auto Attacker Pedestal Upgrade. Simply place it on a pedestal and stand back. It will periodically damage _everything_ in the area. It also very considerately picks up the drops to send them elsewhere. This one is covered in more detail our [Rosa Arcana Automation](https://github.com/NillerMedDild/Enigmatica6/wiki/Botania:-Mana-Generation#rosa-arcana) section, so feel free to check it out there.
+For a quick and easy way to kill mobs, the Pedestals mod offers the Auto Attacker Pedestal Upgrade. Simply place it on a pedestal and stand back. It will periodically damage _everything_ in the area. It also very considerately picks up the drops to send them elsewhere. This one is covered in more detail our [Rosa Arcana Automation](https://wiki.enigmatica.net/enigmatica6/gameplay/how-to.../botania-basic-mana-generation#rosa-arcana) section, so feel free to check it out there.
 
 ### **Dark Utilities**
 
