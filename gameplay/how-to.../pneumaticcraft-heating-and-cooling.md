@@ -117,7 +117,7 @@ Great for pushing mobs around, Air Grate Tube Modules can also cool any Heat Sin
 
 Consider these two compressors. Both are burning LPG and have three Speed Upgrades. The one in the front has only a single Heat Sink on it and is at 144C. The one in the back, however has the same setup, but with the addition of an Air Grate pointed at the singular Heat Sink. That one is running at a cool 83C.
 
-That's certainly a lot cooler. But that Air Grate at it's current 0.6 bar of pressure could be reaching a lot more than one Heat Sink. In fact, it would be able to reach a 5x5x5 cube of Heat Sinks.
+That's certainly a lot cooler. But that Air Grate at it's current 0.6 bar of pressure could be reaching a lot more than one Heat Sink. In fact, it can reach up to a 3x3x3 cube of Heat Sinks.
 
 ![2021-04-01\_07 36 48](https://user-images.githubusercontent.com/9543430/113288476-06790200-92bd-11eb-9536-528360dd015d.png)
 
